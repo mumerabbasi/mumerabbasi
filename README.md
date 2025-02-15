@@ -29,7 +29,7 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
     </td>
   </tr>
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email" width="920" height="250" style="border: none;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email" width="900" height="250" style="border: none;" />
 </div>
 
 ---
