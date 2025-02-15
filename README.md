@@ -17,9 +17,8 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 
 ## 📈 GitHub Stats
 [![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email)](https://github.com/mumerabbasi)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mumerabbasi&theme=radical&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical)
 ---
 
 ## 🛠️ Technical Skills
