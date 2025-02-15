@@ -12,7 +12,7 @@
 🔍 Passionate about **Deep Learning, Computer Vision, and Robotics**  
 💻 Experienced in **ML Research, Autonomous Systems, and Embedded Engineering**
 
-Currently, I'm working as a **Working Student - Software and Algorithm Developer** at **Innoligent Technologies**, contributing to advanced algorithmic and software engineering initiatives, leveraging **machine learning** and **deep learning** to build **real‐time data processing** and **analytics solutions**. Previously, I worked as a **Top Rated Plus ML Engineer on Upwork**, earning over USD 100k by delivering ML, data analytics, and computer vision solutions to global clients.
+Currently, I'm working as a **Working Student - Software and Algorithm Developer** at **Innoligent Technologies**, contributing to advanced algorithmic and software engineering initiatives, leveraging **machine learning** and **deep learning** to build **real‐time data processing** and **analytics solutions**. Previously, I worked as a **Top Rated Plus ML Engineer on Upwork (top 3%)**, delivering ML, data analytics, and computer vision solutions to global clients.
 
 ---
 
@@ -29,31 +29,7 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 - **Languages:** Python, C/C++, Embedded C, MATLAB, Verilog, SQL  
 - **Frameworks & Tools:** PyTorch, ROS2, Scikit-learn, OpenCV, Flask, Docker, PyQT  
 - **Concepts:** Deep Learning, Machine Learning, Computer Vision, Digital Signal Processing, OOP  
-- **Hardware & PCB Design:** Altium Designer, Hardware Validation, Embedded Systems  
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Scene Reconstruction with Neural Radiance Fields (NeRF)
-> 📌 **ICCV 2023 Research Implementation** | PyTorch, Python, Docker
-- Improved **SceneRF** for enhanced **3D scene reconstruction, depth synthesis, and novel view synthesis**
-- Integrated **hierarchical ray sampling** and **Random Fourier Features (RFF) encoding**
-
-### 🔹 Multiview Human Action Segmentation
-> 📌 **Furniture Assembly Video Segmentation** | PyTorch, PyRender, ROS2, Docker
-- Developed a **spatio-temporal network** leveraging **EfficientNet, self-attention, and Transformer encoder**
-- Created a **multiview dataset** using depth & visual data, leading to a **real-time digital twin**
-
-### 🔹 Autonomous Valet Parking for an F1Tenth Car
-> 📌 **Self-Driving Car Project** | Python, ROS2, C++, Jetson Nano
-- Developed a **2D LiDAR-based valet parking system** using **SLAM, RRT motion planning, and PID control**
-- Integrated ROS2 for seamless module communication and control
-
-### 🔹 Geocoordinate Estimation of Ground Objects using Aerial Monocular Camera
-> 📌 **Bachelor's Thesis** | Python, MATLAB, ArcGIS
-- Used **ray-marching with Digital Elevation Map (DEM)** to estimate object locations on **non-flat terrain**
-- Applied **YOLO for object detection** and **geometric projection for localization**
+- **Concepts:** Git, Docker
 
 ---
 
