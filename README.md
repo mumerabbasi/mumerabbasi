@@ -18,22 +18,18 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 ## 📈 GitHub Stats
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="border: none; padding: 0px;">
-        <a href="https://github.com/mumerabbasi">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical" width="450" height="250" style="border: none;" />
-        </a>
-      </td>
-      <td style="border: none; padding: 0px;">
-        <img src="https://streak-stats.demolab.com?user=mumerabbasi&theme=radical&hide_border=true" width="450" height="250" style="border: none;" />
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td style="border: none; padding: 0px;">
+      <a href="https://github.com/mumerabbasi">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical" width="450" height="250" style="border: none;" />
+      </a>
+    </td>
+    <td style="border: none; padding: 0px;">
+      <img src="https://streak-stats.demolab.com?user=mumerabbasi&theme=radical&hide_border=true" width="450" height="250" style="border: none;" />
+    </td>
+  </tr>
   <br>
-  </tr>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email" width="920" height="250" style="border: none;" />
-  </tr>
 </div>
 
 ---
