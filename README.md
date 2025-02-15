@@ -12,7 +12,7 @@
 🔍 Passionate about **Deep Learning, Computer Vision, and Robotics**  
 💻 Experienced in **ML Research, Autonomous Systems, and Embedded Engineering**
 
-Currently, I'm developing **deep learning-based trading strategies** and **human activity monitoring applications** using **PyTorch, YOLO, and PyQT** at Innoligent Technologies. Previously, I worked as a **Top Rated Plus ML Engineer on Upwork**, contributing to **ChatGPT** and **Claude** development by enhancing Python/C++ problem-solving capabilities via RLHF.
+Currently, I'm working as a **Working Student - Software and Algorithm Developer** at **Innoligent Technologies**, contributing to advanced algorithmic and software engineering initiatives, leveraging **machine learning** and **deep learning** to build **real‐time data processing** and **analytics solutions**. Previously, I worked as a **Top Rated Plus ML Engineer on Upwork**, earning over USD 100k by delivering ML, data analytics, and computer vision solutions to global clients.
 
 ---
 
