@@ -20,17 +20,20 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 <div align="center">
   <table>
     <tr>
+      <td>
         <a href="https://github.com/mumerabbasi">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical" />
         </a>
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=mumerabbasi&theme=radical&hide_border=true" />
+      </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mumerabbasi&theme=radical&exclude=joined,email" />
 </div>
+
 
 
 
