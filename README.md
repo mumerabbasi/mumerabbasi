@@ -17,7 +17,7 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 
 ## 📈 GitHub Stats
 
-![Metrics](https://metrics.lecoq.io/mumerabbasi?template=classic&base.community=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumerabbasi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mumerabbasi&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=mumerabbasi&theme=radical&hide_border=true)
 
