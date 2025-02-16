@@ -29,7 +29,7 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 - **Languages:** Python, C/C++, Embedded C, MATLAB, Verilog, SQL  
 - **Libraries & Frameworks:** PyTorch, ROS2, OpenCV, Open3d, Scikit-learn, Flask, Docker, PyQT  
 - **Concepts:** Deep Learning, Machine Learning, Computer Vision, Digital Signal Processing, OOP  
-- **Concepts:** Git, Docker
+- **Tools:** Git, Docker
 
 ---
 
