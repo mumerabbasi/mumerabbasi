@@ -8,8 +8,7 @@
 ## 🚀 About Me
 
 🎓 **Master's Student** in Communications & Electronics Engineering @ Technical University of Munich (TUM)  
-🔍 Passionate about **Deep Learning, Computer Vision, and Robotics**  
-💻 Experienced in **ML Research, Autonomous Systems, and Embedded Engineering**
+💻 Experienced in **Deep Learning and Computer Vision**
 
 Currently, I'm working as a **Working Student - Software and Algorithm Developer** at **Innoligent Technologies**, contributing to advanced algorithmic and software engineering initiatives, leveraging **machine learning** and **deep learning** to build **real‐time data processing** and **analytics solutions**. Previously, I've worked as a **Top Rated Plus ML Engineer on Upwork (top 3%)**, delivering ML, data analytics, and computer vision solutions to global clients.
 
@@ -45,6 +44,5 @@ Currently, I'm working as a **Working Student - Software and Algorithm Developer
 
 💼 [LinkedIn](https://linkedin.com/in/mumerabbasi)  
 📧 mumerhere@gmail.com  
-🔗 [GitHub](https://github.com/mumerabbasi)
 
 🚀 _"Building intelligent systems, one model at a time."_
